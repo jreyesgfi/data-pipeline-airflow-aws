@@ -4,3 +4,4 @@ plugins
 secrets
 pdfextractor
 *.zip
+.env
